@@ -1,0 +1,72 @@
+1. Problem Definition
+
+Problem statement:
+Many individuals struggle to consistently track daily expenses, understand spending patterns, and maintain budgets because existing expense-management tools can be time-consuming, complex, or require too much manual data entry.
+
+UX opportunity:
+Design a simple mobile expense-tracking application that makes recording expenses quick, provides understandable spending insights, and helps users stay within personal budgets.
+
+Research objectives
+
+Understand how people currently track expenses.
+Identify barriers to consistent expense tracking.
+Discover the information users need from financial summaries.
+Compare existing expense-management products.
+Identify opportunities for a simpler, more accessible experience.
+2. Target Users
+
+Primary users:
+
+Students and young professionals managing personal finances.
+People with regular monthly income who want better spending visibility.
+Users who currently rely on notes, spreadsheets, banking apps, or memory.
+
+Secondary users:
+
+Freelancers with variable income.
+Couples or households wanting to monitor shared spending
+3. User Personas
+Persona 1 — Ananya, 21, College Student
+
+Goals: Control discretionary spending and save for purchases.
+Behaviors: Uses UPI frequently; occasionally records expenses in notes.
+Pain points: Forgets small purchases, dislikes manual categorization, finds financial terminology confusing.
+Needs: Fast expense entry, simple categories, weekly spending summaries.
+
+Persona 2 — Rahul, 29, Software Professional
+
+Goals: Maintain a monthly budget and increase savings.
+Behaviors: Uses banking/payment apps but rarely reviews transactions.
+Pain points: Spending information is scattered across accounts, difficult to identify unnecessary spending, budgeting requires effort.
+Needs: Automatic categorization, budget alerts, visual reports.
+4. Competitive Analysis
+Product	Strengths	Potential UX Limitations
+Wallet by BudgetBakers	Budgeting, expense tracking, financial reports, synchronization	Broad feature set can increase complexity for first-time users
+YNAB	Strong budgeting methodology and planning tools	Requires users to learn its budgeting approach; can feel demanding for casual trackers
+Money Manager	Straightforward expense recording, categories, charts	More manual interaction; automation and advanced insights may be limited
+
+Competitive Opportunity
+
+The research suggests an opportunity to combine very fast expense capture with simple, actionable insights, rather than requiring users to manage detailed financial systems.
+
+5. Key User Pain Points
+Manual entry takes too long — Users may abandon tracking when every transaction requires multiple fields.
+Small expenses are forgotten — Frequent low-value purchases are particularly easy to miss.
+Categorization is tedious — Users may not want to repeatedly select categories.
+Financial dashboards can be overwhelming — Too many charts and metrics can obscure the most important information.
+Budgets are difficult to maintain — Users need timely feedback rather than discovering overspending at month-end.
+Financial information is fragmented — Users may have transactions across multiple payment methods.
+Irregular income complicates budgeting — Freelancers and other variable-income users need flexible approaches.
+6. UX Design Implications
+
+The proposed application should prioritize:
+
+One-tap/quick expense entry
+Automatic category suggestions
+Clear weekly and monthly spending summaries
+Customizable budget alerts
+Search and filtering
+Simple visualizations
+Optional receipt/photo capture
+Flexible budgets for variable income
+Privacy-conscious handling of financial information
